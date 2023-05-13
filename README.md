@@ -30,3 +30,12 @@ Clustering is a technique in machine learning and data analysis that involves to
 
 
 # K-means algorithm
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/0e7277d6-d827-4824-8fdf-76ba4f5685f2" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/bbd04e73-0fe1-45e8-84e4-fd1418a6ce86" alt="Image">
+
+
+K-means for clusters that are not well separated
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/4aa80353-9ca8-4012-9860-6ff186b53e41" alt="Image">
