@@ -50,3 +50,26 @@ K-means for clusters that are not well separated
 
 
 <img src="https://github.com/Code-with-jaycee/Advanced-learnng-algorithm/assets/87891857/26b5849d-9f4e-40dd-a212-74ab83b5a326" alt="Image">
+
+
+# Initializing K-means
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/52253c7f-7267-4ee7-9fb2-5bf4b7acb52b" alt="Image">
+
+
+# Random initialization
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/69068f06-22fc-4cca-9aff-151fd602aa94" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/8cf684cd-adc0-4309-a0f5-6715bb516ef0" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/3d36928d-e085-4653-bc40-276ffdd653fa" alt="Image">
+
+
+# Choosing the number of clusters
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/5f54548d-33fc-4535-8489-41db6862b7f9" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/cbdf5015-f22d-445b-acf6-4e553d2542c5" alt="Image">
+
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/83697746-e2f6-46c2-bcbd-6eace4956fcf" alt="Image">
+
