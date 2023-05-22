@@ -73,3 +73,52 @@ K-means for clusters that are not well separated
 
 <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/83697746-e2f6-46c2-bcbd-6eace4956fcf" alt="Image">
 
+
+# Finding unusual Events
+
+# Anomaly detection
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/76dd9c4d-26e7-4fff-ac4c-f86a6f75ef59" alt="Image">
+
+Density estimation: 
+- This is a fundamental concept in Anomaly detection withing unsupervised learning. 
+- It involves estimating the probability density function(PDF) or probability distribution of a dataset to understand the underlying patterns and structures. 
+- It helps in distinguishing between normal and anomalous instance by quantifying the likelihood of observing a particular data point within the dataset.
+
+<h2>Techniques</h2>
+- Parametric methods
+  - This assume a specific probability distribution, such as Gaussian (normal) distribution, and estimate its parameters from the data. 
+  - Non-parametric methods, on the  other hand, make fewer assumptions about the underlying distribution and estimate the density directly from the data without assuming any specific form. 
+- Non-parametric methods
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/e1c065b7-93be-428a-b20c-1f1d809fcbc4" alt="Image">
+
+# Application of Anormaly detection. 
+
+1. Intrusion Detection: By modeling the normal behaviour of network traffic, any deviations from the expected pattern can be identified as potential anomalies, indicating a possible intrusion or malicious activity.
+2. Fraud detection: By modeling the normal behaviour of legitimate transactions, any unusual or unexpeted patterns can be flagged as potential fraud. This can be applied to credit card fraud detection, insuarance claims fraud, money laundering detection. 
+3. Manufacturng Quility Control: Density estimation can be imployed to identify anomalies or defects in manufancturing processes. 
+4. Healthcare Monitoring: By establishing normal ranges for vital signs, lab results or physiological measurements , any values that fall outside these ranges can be identified as potential anomalies, triggering further investigation or intervetions.
+   
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/510a3fda-132a-40fe-b738-d0d09d3ae5f7" alt="Image">
+
+# Gaussian (normal) distribution
+
+- This is also known as the normal distribution or bell curve, it is a probability distribution that is widely used in statistics and probability theory. 
+- The Gaussian distribution is characterized by its symmetrical bell-shaped curve, which is parametrized by two values: The mean (μ) and standard deviation (σ). 
+- The mean represents the central tendency of the distribution , indicating the average  or expected value, while the standard deviation represents the dispersion or spread of the data points around the mean. 
+- The probability density function (PDF) of the Gaussian distribution is given by the formula:
+
+f(x) = (1 / σ√(2π)) * exp(-(x-μ)² / (2σ²))
+
+In this formula, x represents the variable or data point, μ represents the mean, σ represents the standard deviation, π represents the mathematical constant pi (approximately 3.14159), and exp() represents the exponential function.
+
+
+
+
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/8e0d06ea-8d1a-4f94-b18e-57d3d9b73e74" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/eb69178e-85ac-4dec-9e36-abef8f6f9174" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/dde72d00-27d8-4a96-9514-57cd00131dc7" alt="Image">
