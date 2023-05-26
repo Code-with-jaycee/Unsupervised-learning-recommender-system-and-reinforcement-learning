@@ -122,3 +122,23 @@ In this formula, x represents the variable or data point, μ represents the mean
 <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/eb69178e-85ac-4dec-9e36-abef8f6f9174" alt="Image">
 
 <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/dde72d00-27d8-4a96-9514-57cd00131dc7" alt="Image">
+
+
+
+# Anomaly detection algorithm
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/f2133a52-8f06-4ae7-b344-11a253f23476" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/67d42aa3-1133-4d55-b3c9-7d31cff3ecf4" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/c064ae0f-c2b6-466c-950f-b33abf5ef4e8" alt="Image">
+
+
+
+# The importance of real-number evaluation
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/2b358f17-7b88-4548-982f-6d24bad2ffc7" alt="Image">
+
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/58100937-9c07-4b11-9a07-e084f3cee74e" alt="Image">
+
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/602025f4-c31d-4eab-95f2-9eae92ef72f0" alt="Image">
