@@ -142,3 +142,13 @@ In this formula, x represents the variable or data point, μ represents the mean
 
 
 <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/602025f4-c31d-4eab-95f2-9eae92ef72f0" alt="Image">
+
+
+
+# Anomaly detection Vs. Supervised learning
+
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/d4646a04-509c-4d93-9034-947e1491ccd4" alt="Image">
+
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/a05f45ce-9c96-49e0-a501-7e3e4fd43f1a" alt="Image">
