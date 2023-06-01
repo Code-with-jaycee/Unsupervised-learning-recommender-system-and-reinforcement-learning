@@ -152,3 +152,47 @@ In this formula, x represents the variable or data point, μ represents the mean
 
 
 <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/a05f45ce-9c96-49e0-a501-7e3e4fd43f1a" alt="Image">
+
+
+
+# Choosing what features to use
+
+- Non-gaussian features : These refers to features that do not follow a Gaussian or normal distribution. 
+- In a guassian distribution, also known as a bell curve or normal distribution, the data is symmetrically distributed around the mean, with most of the data concentrated near the mean and tapering off as it moves away from the mean.
+- Non-Gaussian features can have various types of distributions, such as skewed, multimodal, or heavy-tailed distributions. 
+
+# Dealing with non-Gaussian features. 
+1. Transformation: Applying mathematical transformation such as logarithmic, exponential, or power transformations to the features can help make the distributions closer to Gaussian. 
+2. Non-parametric methods: Non-parametric methods, such as decision trees or support vector machines can be used when the underlying distribution of the data is uknown or does not follow a specific parametric form.
+3. Feature engineering: Creating new features by combining or tranforming the existing features in a way that captures the underlying patterns of the data can sometimes make it easier for models to capture the non-Gaussian relationships.
+4. Robust estimators: Using robust statistical estimators that are less affected by outliers can help mitigate the impact of heavy-tailed distribution.
+
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/d636dc21-cb01-4403-9679-1bf224d523a4" alt="Image">
+
+
+# Error analysis for anomaly detection
+- This refers to the process of anlysing and understanding the errors or discrepancies mande by anomaly detection model. 
+- Anomaly detection aims to identify patterns or instances in data that deciates significantly from expected normal behaviour.
+- Error analysis helps to assess the performance of the model, identify the types of erros it makes , and gain insights into the strengths and limitations of the model. 
+
+
+<h3>Key Steps involved in error analysis.</h3>
+
+1. Data collection and labeling: Collect a labeled dataset that contains both normal and anomalous instances. 
+   - These labels indicate whether each instance is normal or anomolous.
+   - This labeled dataset serves as the ground truth for error analysis.
+2. Model training and evaluation: Train an anomaly detection model using a suitable algorithm or technique.
+   - Evaluate the model's performance on separate validation or test dataset usign appropriate evaluation metrics such precision, recall, f1-score, or area under the receiver operating characteristics curve (AUC-ROC)
+3. Error identification: Analyze the model's predictions on the validation or test dataset and identify instance where the model made errors.
+   - Classify the errors into different categories, such as false positives (normal instances misclassified as anomolous) and false negatives (anomolous instances misclassified as normal)
+4. Error characterization: Examine the characteristics of the errors to gain insights into the model's behaviour. 
+5. Error Visualization: Visualize the missclassified instances or their representation to get a betther understanding of the errors. 
+6. Error mitigation: Based on the insignts gained from the error analysis, refine or improve the anomaly detection model.
+7. Iterative process: Error analysis is an iterative process that involves repeatedly training, evaluating, and analyzing the model's performance.
+
+
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/3e2f2afe-e294-491c-8e33-80b206260431" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/ac44c3db-8ce0-485d-941c-1fc218515d95" alt="Image">
