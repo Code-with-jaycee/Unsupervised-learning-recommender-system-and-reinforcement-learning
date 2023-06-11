@@ -205,4 +205,38 @@ In this formula, x represents the variable or data point, μ represents the mean
 
  # Collaborative Filtering
  Using per-item features
- 
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/9b29df95-0c21-4ecf-bb2b-c6ec01a91699" alt="Image">
+
+# Cost function(objective function or loss function)
+
+- This is a measure of how well a machine learning model performs on a given dataset.
+- The cost function quantifies the difference between the predicted output of the model and the actual output, which is known as the ground truth or target value.
+
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/0dec6bb1-109e-4b11-8fc1-b1a7536f1dc3" alt="Image">
+
+
+# Collaborative filtering algorithm
+
+ <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/e59d5a45-6b92-46cb-800c-9329afc422f8" alt="Image">
+
+
+ <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/4c313f01-2850-4fe3-bac1-220b38ec5f52" alt="Image">
+
+ <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/040c5c69-7680-4535-aa31-77f3764201de" alt="Image">
+
+
+ <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/bfaef4d2-d165-4ee0-b00d-5895efb93802" alt="Image">
+
+
+ # Binary labels: Favs , likes and clicks
+ <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/2fd316a0-a99e-4618-a768-35e65cbbf925" alt="Image">
+
+
+ <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/e4a6d6bd-1844-45d4-b7eb-f8c024d09a1a" alt="Image">
+
+
+ <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/cef6ab94-14f5-4044-a3e6-8904d9d951b4" alt="Image">
+
+ <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/3b5b05fc-0c36-488d-b03f-0f11fe4b51e4" alt="Image">
