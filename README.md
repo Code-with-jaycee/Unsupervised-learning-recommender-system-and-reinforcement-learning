@@ -240,3 +240,30 @@ In this formula, x represents the variable or data point, μ represents the mean
  <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/cef6ab94-14f5-4044-a3e6-8904d9d951b4" alt="Image">
 
  <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/3b5b05fc-0c36-488d-b03f-0f11fe4b51e4" alt="Image">
+
+
+# Mean normalization
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/41f41f90-3eaf-4e55-bf56-09a6284fc1b1" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/575f85b3-d8fe-40c9-86fa-11036450c991" alt="Image">
+
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/c01a570d-9599-4a5b-8e29-1fafec51f79f" alt="Image">
+
+# Tensorflow Implementation
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/1e1ef524-481f-4b63-bf52-a1c6a0fd5fa4" alt="Image">
+
+
+# AUTO DIFF (Automatic differentiation)
+
+- This is a technique commonly used in machine learning and optimization algorihms.
+- It is mathematical tool that allows the efficient and accurate computations of derivatives, which is essential for training machine learning models. 
+- In machine learning, models are trained by optimizing their parameters to minimize a loss function. 
+- This optimization process often involves calculating the gradient of the loss function with respect to the model parameters.
+- Machine learning frameworks , such as TensorFlow and PyTorch, provide automatic differentation functionality as a core feature. 
+- This allows developers to define their models and loss functions using high-level abstractions and perform efficient gradient computations for training the models.
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/288c1178-caf0-4517-b333-a85e713d05a1" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/3c757fb3-4c37-4915-8d74-17d3f9a106b1" alt="Image">
