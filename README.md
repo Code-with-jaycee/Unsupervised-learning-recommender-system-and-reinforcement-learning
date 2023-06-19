@@ -267,3 +267,11 @@ In this formula, x represents the variable or data point, μ represents the mean
 <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/288c1178-caf0-4517-b333-a85e713d05a1" alt="Image">
 
 <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/3c757fb3-4c37-4915-8d74-17d3f9a106b1" alt="Image">
+
+
+# Finding related items.(Collaborative Filtering)
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/28fca7fb-291b-421a-bd62-7da69329e4c7" alt="Image">
+
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/30dfd295-fea1-4631-ad24-452a19371f33" alt="Image">
