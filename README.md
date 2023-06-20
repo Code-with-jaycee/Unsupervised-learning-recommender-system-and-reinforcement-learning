@@ -275,3 +275,35 @@ In this formula, x represents the variable or data point, μ represents the mean
 
 
 <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/30dfd295-fea1-4631-ad24-452a19371f33" alt="Image">
+
+
+# Collaborative filtering Vs Content-based filtering.
+
+- Collaborative filtering: This focuses on analyzing user behaviour, preferences, and patterns of interation to make recommendations. 
+- It assumes that users with similar interests in the past will have similar preferences in the future. 
+- It can be devided into
+  
+  - User-Based Collaboration Filtering : This approach recommends items to a user based on the interests and behaviours of other users who are similar to them. 
+  - It finds users with similar item preferences and recommends items that those similar users have liked or rated highly.
+
+  - Item-Based Collaborative Filtering - The similarities between items is calculated based on the rating and preferences of the users.
+  - Recommendations are then made based on the items that are similar to the ones the user has already liked or rated.
+
+- Collaborative filtering does not require explicit knowledge about the items or users' attributes. 
+- It relies solely on user behaviour and item ratings.
+- One limitation of collaborative filtering is the cold start problem, where it struggles to make accurate recommendations for new users or items with limited data.
+  
+
+- Content-Based Filtering - This focuses on the characteristics or attributes of items being recommended.
+- It uses features or attributes of the items themselves to find similarities and make recommendations.
+- For example in movie recommendation system, the attributes could include genre, director, actors.
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/d97feeac-7d17-4393-9451-74185db3c602"
+alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/a1fb1643-a267-4ffe-a03a-9bb29d5db98b" alt="Image">
+
+# Content-based filtering: Learning to match
+
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/c03e2e67-12ce-4bb8-81bd-558fdcd5037d" alt="Image">
