@@ -307,3 +307,13 @@ alt="Image">
 
 
 <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/c03e2e67-12ce-4bb8-81bd-558fdcd5037d" alt="Image">
+
+
+# Deep learning for content-based filtering
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/90b24ed5-5180-4356-88f9-001d2d431c43" alt="Image">
+
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/3fe72379-e4ab-4fa7-8a44-fdd566341fcd" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/563056d9-7237-498e-aeaf-38c58e2bfa59" alt="Image>
