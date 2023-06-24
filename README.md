@@ -316,4 +316,54 @@ alt="Image">
 
 <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/3fe72379-e4ab-4fa7-8a44-fdd566341fcd" alt="Image">
 
-<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/563056d9-7237-498e-aeaf-38c58e2bfa59" alt="Image>
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/563056d9-7237-498e-aeaf-38c58e2bfa59" alt="Image">
+
+
+# Ethical use of recommender systems
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/39d83d33-8450-48f6-851c-e40787747121" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/1f43f983-35dd-479d-bf03-4ec72a99f24a" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/8c0a389e-3128-4b61-8240-eddb865de2c6" alt="Image">
+
+
+
+# Implementation of Content-based recommenders.
+
+
+```
+user_NN = tf.keras.models.Sequential([
+  tf.keras.layers.Dense(256, activation='relu'),
+  tf.keras.layers.Dense(128, activation='relu'),
+  tf.keras.layers.Dense(32)
+])
+
+item_NN = tf.keras.models.Sequential([
+  tf.keras.layers.Dense(256, activation='relu'),
+  tf.keras.layers.Dense(128, activation='relu'),
+  tf.keras.layers.Dense(32)
+])
+
+
+# create the user input and point to the base network
+
+input_user = tf.keras.layers.Input(shape=(num_user_features))
+vu = tf.linalg.l2_normalize(vu, axis=1)
+
+
+# create the item input and point to the base network.
+input_item = tf.keras.layers.Input(shape=(num_item_features))
+vm = item_NN(input_item)
+vm = tf.linlg.l2_normalize(vm, axis=1)
+
+# measure the similarity of the two vector outputs
+output = tf.keras.layers.Dot(axes=1) ([vu, vm])
+
+# specify the inputs and output of the model
+model = Model([input_user, input_item], output)
+
+# Specify the cost function
+cost_fn = tf.keras.losses.MeanSquaredError()
+
+```
