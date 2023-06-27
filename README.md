@@ -367,3 +367,18 @@ model = Model([input_user, input_item], output)
 cost_fn = tf.keras.losses.MeanSquaredError()
 
 ```
+
+# Reinforcement Learning Intoduction
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/944fc059-6545-4214-8e79-8e69b0f0bb58" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/cb12b413-ce69-4170-82d7-b14b5e5c0801" alt="Image">
+
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/3fbe9baf-e252-4967-86a0-ea78382bba94" alt="Image">
+
+
+# Reinforcement Learning formalisim
+# Mars rover example
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/10cbe25b-5078-406e-bd02-aa5843c75bb0" alt="Image">
