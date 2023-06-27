@@ -382,3 +382,28 @@ cost_fn = tf.keras.losses.MeanSquaredError()
 # Mars rover example
 
 <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/10cbe25b-5078-406e-bd02-aa5843c75bb0" alt="Image">
+
+
+# The Return in reinforcement learning
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/868ef160-edb9-44cb-b628-3b4d73e25834" alt="Image">
+
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/56bf4e64-9ced-4f7b-958e-3abf9400403b" alt="Image">
+
+
+# Making decisions: Policies in reinforcement learning
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/b199039c-cb16-4a9c-9b68-740459e9a514" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/1b4d6e2d-551f-4bd5-9e48-f7a8297d882b" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/1b4d6e2d-551f-4bd5-9e48-f7a8297d882b" alt="Image">
+
+
+# Review of key concepts
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/a8f91026-b52b-471b-923f-0560541a97de" alt="Image">
+
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/9740f066-318e-4564-8b8a-36aacfd5cecf" alt="Image">
