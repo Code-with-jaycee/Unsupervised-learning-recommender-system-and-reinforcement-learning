@@ -407,3 +407,9 @@ cost_fn = tf.keras.losses.MeanSquaredError()
 
 
 <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/9740f066-318e-4564-8b8a-36aacfd5cecf" alt="Image">
+
+# State-action value function definition
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/0d513d94-4a39-4e02-842e-1545cce98336" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/c8940e59-40a9-4643-aefb-9d93ce90c3a6" alt="Image">
