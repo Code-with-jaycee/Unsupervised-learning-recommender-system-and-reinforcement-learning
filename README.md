@@ -413,3 +413,22 @@ cost_fn = tf.keras.losses.MeanSquaredError()
 <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/0d513d94-4a39-4e02-842e-1545cce98336" alt="Image">
 
 <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/c8940e59-40a9-4643-aefb-9d93ce90c3a6" alt="Image">
+
+
+# State of action value function example
+
+<img src="https://github.com/Code-with-jaycee/OracleCloudInfrastracture/assets/87891857/57c5f3ec-bd7f-4173-ada7-7b1a1417d048" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/OracleCloudInfrastracture/assets/87891857/9052bd5b-e6f6-4e9e-98c1-88dbf3592e89" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/OracleCloudInfrastracture/assets/87891857/d2ba86f8-0309-42c7-be0f-741bee18291d" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/OracleCloudInfrastracture/assets/87891857/b60491ee-5b52-412b-820d-fcd7cfb7466a" alt="Image">
+
+
+# BellMan Equation
+<img src="https://github.com/Code-with-jaycee/OracleCloudInfrastracture/assets/87891857/c547a3a6-f98b-4108-aa24-4089293b3038" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/OracleCloudInfrastracture/assets/87891857/a4f065b5-b858-4f89-96ae-b56add7731a0" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/OracleCloudInfrastracture/assets/87891857/1fbf73be-f3e6-49bf-a254-8110a9f817f6" alt="Image">
