@@ -432,3 +432,41 @@ cost_fn = tf.keras.losses.MeanSquaredError()
 <img src="https://github.com/Code-with-jaycee/OracleCloudInfrastracture/assets/87891857/a4f065b5-b858-4f89-96ae-b56add7731a0" alt="Image">
 
 <img src="https://github.com/Code-with-jaycee/OracleCloudInfrastracture/assets/87891857/1fbf73be-f3e6-49bf-a254-8110a9f817f6" alt="Image">
+
+
+# Examples of continuous State applications
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/25f408b0-0306-45b8-b167-6c4922caaf3a" alt="Image">
+
+ 
+# Lunar Lander
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/14cedd92-1a51-4e52-9cd5-05a72d1be788" alt="Image">
+
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/87e01a07-a1e2-410e-bae4-4f6cbbc86590" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/a6ae1fec-3977-4304-822f-49412e3794ea" alt="Image">
+
+# Deep Reinforcement Learning
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/a2e38d0e-04ed-4bd2-b3cd-bbc46ac057e5" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/e8c890cc-bcbe-4388-accb-4eaf2de15dd1" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/0b178f0f-5383-4fb8-952d-879973afab4c" alt="Image">
+
+# Algorithm refinement Improved neural network architecture
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/13f0f717-f603-44ee-a605-2ccda88842b8" alt="Image">
+
+
+# Algorithm refinement: e-greedy policy
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/7ba1dcd5-8636-4ec3-9573-ebb77e2de840" alt="Image">
+
+<img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/d602b31d-1fd9-4ca3-b518-2288401322b6" alt="Image">
+
+# The state of reinforcement learning
+
+ <img src="https://github.com/Code-with-jaycee/Unsupervised-learning-recommender-system-and-reinforcement-learning/assets/87891857/839d1b14-c20e-4010-bdbc-623f3f433ca7" alt="Image">
